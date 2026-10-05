@@ -1,8 +1,8 @@
-# PC-Soft modernization
+# Job — PC-Soft modernization
 
-We rewrite programs originally built with **PC-Soft** (WinDev / WebDev, WLanguage) into a mainstream language. The usual target is **Python**. **C#** or **Go** may be used when they fit a case better.
+In collaboration with our internal team, the developer rewrites programs originally built with **PC-Soft** (WinDev / WebDev, WLanguage) into a mainstream language. The usual target is **Python**. **C#** or **Go** may be used when they fit a case better.
 
-The new program must perform the same task as the original one. You do this work together with our team.
+This is shared work. The developer takes each case with the team, from the original behaviour through to a new program that performs the same task.
 
 ## What a case includes
 
