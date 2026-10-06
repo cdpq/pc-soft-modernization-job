@@ -1,12 +1,14 @@
-# Job — PC-Soft modernization
+# English version
 
 [Version en français plus bas](#french-version)
+
+## Job — PC-Soft modernization
 
 In collaboration with our internal team, the developer rewrites programs originally built with **PC-Soft** (WinDev / WebDev, WLanguage) into a mainstream language. The usual target is **Python**. **C#** or **Go** may be used when they fit a case better.
 
 This is shared work. The developer takes each case with the team, from the original behaviour through to a new program that performs the same task.
 
-## What a case includes
+### What a case includes
 
 For each program, the reference material includes:
 
@@ -15,7 +17,7 @@ For each program, the reference material includes:
 - database snapshots taken before and after the run
 - input files, when the program needs them
 
-## What we are looking for
+### What we are looking for
 
 **Expected**
 
@@ -34,15 +36,17 @@ For each program, the reference material includes:
 
 Experience with the original environment is a plus. It is not required to do the work.
 
-## French version
+---
 
-### Emploi — Modernisation PC-Soft
+# French version
+
+## Emploi — Modernisation PC-Soft
 
 En collaboration avec notre équipe interne, le développeur réécrit des programmes conçus à l'origine avec **PC-Soft** (WinDev / WebDev, WLanguage) dans un langage d'usage courant. La cible habituelle est **Python**. **C#** ou **Go** peuvent être utilisés lorsqu'ils conviennent mieux au cas.
 
 Il s'agit d'un travail mené ensemble. Le développeur prend chaque cas avec l'équipe, depuis le comportement d'origine jusqu'à un nouveau programme qui accomplit la même tâche.
 
-#### Ce que comprend un cas
+### Ce que comprend un cas
 
 Pour chaque programme, le matériel de référence comprend :
 
@@ -51,7 +55,7 @@ Pour chaque programme, le matériel de référence comprend :
 - des instantanés de la base de données pris avant et après l'exécution
 - les fichiers d'entrée, lorsque le programme en a besoin
 
-#### Ce que nous recherchons
+### Ce que nous recherchons
 
 **Attendu**
 
